@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmPWpbkextc=",
+  "dgSpecHash": "zfEokc/h2bY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Test\\EjemploApp.Test.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Test\\EjemploApp.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

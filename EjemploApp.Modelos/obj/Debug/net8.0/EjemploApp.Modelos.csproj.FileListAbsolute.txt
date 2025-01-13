@@ -9,3 +9,15 @@ C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.Modelos\obj\Debug\net
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.Modelos\obj\Debug\net8.0\refint\EjemploApp.Modelos.dll
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.pdb
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.Modelos\obj\Debug\net8.0\ref\EjemploApp.Modelos.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\bin\Debug\net8.0\EjemploApp.Modelos.deps.json
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\bin\Debug\net8.0\EjemploApp.Modelos.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\bin\Debug\net8.0\EjemploApp.Modelos.pdb
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.sourcelink.json
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\refint\EjemploApp.Modelos.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\EjemploApp.Modelos.pdb
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.Modelos\obj\Debug\net8.0\ref\EjemploApp.Modelos.dll

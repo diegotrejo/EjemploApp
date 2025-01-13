@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {}
+    "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj",
         "projectName": "EjemploApp.ConsumeAPI",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

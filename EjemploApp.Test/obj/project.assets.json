@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Test\\EjemploApp.Test.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Test\\EjemploApp.Test.csproj",
       "projectName": "EjemploApp.Test",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Test\\EjemploApp.Test.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Test\\EjemploApp.Test.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Test\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj"
+            "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.ConsumeAPI\\EjemploApp.ConsumeAPI.csproj"
             },
-            "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Modelos\\EjemploApp.Modelos.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp.Modelos\\EjemploApp.Modelos.csproj"
+            "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Modelos\\EjemploApp.Modelos.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\EjemploApp.Modelos\\EjemploApp\\EjemploApp.Modelos\\EjemploApp.Modelos.csproj"
             }
           }
         }

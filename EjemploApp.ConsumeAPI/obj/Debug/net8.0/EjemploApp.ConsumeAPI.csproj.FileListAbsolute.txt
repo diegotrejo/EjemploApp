@@ -10,3 +10,16 @@ C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.ConsumeAPI\obj\Debug\
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.ConsumeAPI\obj\Debug\net8.0\refint\EjemploApp.ConsumeAPI.dll
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.pdb
 C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp.ConsumeAPI\obj\Debug\net8.0\ref\EjemploApp.ConsumeAPI.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\bin\Debug\net8.0\EjemploApp.ConsumeAPI.deps.json
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\bin\Debug\net8.0\EjemploApp.ConsumeAPI.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\bin\Debug\net8.0\EjemploApp.ConsumeAPI.pdb
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.sourcelink.json
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\refint\EjemploApp.ConsumeAPI.dll
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\EjemploApp.ConsumeAPI.pdb
+C:\Users\LENOVO\source\repos\EjemploApp.Modelos\EjemploApp\EjemploApp.ConsumeAPI\obj\Debug\net8.0\ref\EjemploApp.ConsumeAPI.dll
